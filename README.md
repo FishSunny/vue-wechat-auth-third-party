@@ -16,13 +16,13 @@ npm i vue-wechat-auth-third-party vue-router axios -S
 # axios为选装，可以使用您喜欢的任意ajax库
 ```
 
-### 2.引入vue-wechat-auth
+### 2.引入vue-wechat-auth-third-party
 
 ``` javascript
 
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import WechatAuth from 'vue-wechat-auth'
+import WechatAuth from 'vue-wechat-auth-third-party'
 import axios from 'axios'
 
 // 路由配置
