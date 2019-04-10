@@ -56,7 +56,7 @@
         href += pathName
       }
       let searchArr = search.split('&').filter(item => {
-        if (item,indexOf('code=') !== -1) {
+        if (item.indexOf('code=') !== -1) {
           return false
         }
         if (item.indexOf('state=') !== -1) {

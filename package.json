@@ -1,6 +1,6 @@
 {
   "name": "vue-wechat-auth-third-party",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于vue开发的微信单页应用授权插件,适用于代开微信小程序授权",
   "author": "Frederica(1030766409@qq.com)",
   "main": "./index.js",
